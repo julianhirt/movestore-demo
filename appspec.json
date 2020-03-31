@@ -5,7 +5,7 @@
       "name": "Year",
       "description": "Select the Year you want to filter the data for.",
       "type": "INTEGER",
-      "defaultValue": "2015"
+      "defaultValue": 2015
     }
   ]
 }
